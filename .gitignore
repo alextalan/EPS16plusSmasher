@@ -1,0 +1,11 @@
+# session logs written next to the script
+eps16plussmasher_log_*.txt
+eps16_log_*.txt
+# python
+__pycache__/
+*.pyc
+# packaging output
+build/
+dist/
+# macOS
+.DS_Store

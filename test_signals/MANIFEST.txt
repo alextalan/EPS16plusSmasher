@@ -1,0 +1,10 @@
+ClawdOut hardware test signals (16-bit mono PCM, 44.1 kHz header)
+
+T1_core_12345.wav                 12345 samples  first  32767  last  32767  sha256 2bdbbfceee999518
+T2_transwave_src_16frames.wav      4096 samples  first  16000  last  15807  sha256 a499e6a2fe23e9ad
+T3a_4321.wav                       4321 samples  first  32767  last  32767  sha256 e87465f8a188136e
+T3b_7777.wav                       7777 samples  first  32767  last  32767  sha256 e7a31a2cb604f0be
+T3c_10007.wav                     10007 samples  first  32767  last  32767  sha256 1e4a680c3286d6b3
+T4a_sine_loop.wav                  4400 samples  first      0  last   -440  sha256 2403f7ecc3aca214
+T4b_square_loop.wav                4400 samples  first  14000  last -14000  sha256 d6c9027368ce3cc3
+T4c_saw_loop.wav                   4400 samples  first -14000  last  13860  sha256 d069a4ee83372a5c
