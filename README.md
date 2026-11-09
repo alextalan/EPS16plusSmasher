@@ -1,7 +1,9 @@
 # EPS16plusSmasher
 
 A native Mac app for transferring samples to and from the **Ensoniq EPS-16+**
-over MIDI, with a built-in transwave generator. No browser required.
+over MIDI, with a built-in transwave generator. 
+
+![EPS16plusSmasher UI](docs/EPS16plusSmasher.png)
 
 ## What's new here
 
@@ -11,7 +13,7 @@ over MIDI, with a built-in transwave generator. No browser required.
   [Transwave Atom Smasher](https://github.com/handsthatstrike/Transwave-Atom-Smasher):
   turn any WAV into a transwave of up to 128 frames and send it straight to
   the EPS with mod-wheel scanning set up, or save it as a WAV for disk
-  workflows. No Perl, no SoX. Frame slicing and frame fades are byte-exact
+  workflows. Frame slicing and frame fades are byte-exact
   with the original Perl/SoX tool.
 - **Verified transfers.** A built-in Verify compares what comes back from the
   EPS against what you sent, sample for sample.
