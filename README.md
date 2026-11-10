@@ -27,7 +27,7 @@ over MIDI, with a built-in transwave generator.
 - [Transwave Atom Smasher](https://github.com/handsthatstrike/Transwave-Atom-Smasher)
   by handsthatstrike (MIT license)
 
-See [NOTICE.md](NOTICE.md) for licensing details.
+Released under the MIT License (see [LICENSE](LICENSE)). See [NOTICE.md](NOTICE.md) for the projects it builds on.
 
 ## Hardware test results
 
